@@ -1,0 +1,14 @@
+{
+  "booking": [
+    {
+      "name": "Quách Tuấn Anh",
+      "typeBooking": 3,
+      "time": "08:00 - 10:00",
+      "text": "123123123123",
+      "add": "Bệnh viện Hồng Ngọc",
+      "idBS": "637af1380df14c3623e10f1b",
+      "idAc": "64023dac95c74f09a06cc9b0",
+      "id": 1
+    }
+  ]
+}
